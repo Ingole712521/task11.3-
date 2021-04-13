@@ -1,0 +1,6 @@
+[namenode]
+13.235.70.79 ansible_ssh_connection=ssh ansible_ssh_user=ec2-user ansible_ssh_pass=/home/ec2-user/dd.pem
+
+[datanode]
+52.66.5.176 ansible_ssh_connection=ssh ansible_ssh_user=ec2-user ansible_ssh_pass=/home/ec2-user/dd.pem
+
